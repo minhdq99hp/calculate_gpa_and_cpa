@@ -1,15 +1,13 @@
 # Script tính điểm CPA và GPA các kỳ ở Bách khoa HN
-## tl;dr
-Tính điểm CPA/GPA HUST, tool hoạt động ổn tính đến ngày 03/02/2021.
-
 
 ## Introduction
 Script này được sinh ra là bởi CPA và GPA các kỳ ở HUST thường cập nhật chậm, nhất là khi điểm thi lên hết rồi mà vẫn chưa có. Với một đứa thiếu kiên nhẫn như mình thì điều này là không chấp nhận được. 
 
+Script hoạt động ổn tính đến ngày 03/02/2021.
 
 
 ## Setup & Run
-Cài đặt thư viện dể đọc file .xlsx:
+Cài đặt thư viện để đọc file .xlsx:
 ```bash
 pip3 install -r requirements.txt
 ```
